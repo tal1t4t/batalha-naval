@@ -1,5 +1,7 @@
 Trabalho de Construção de Algoritmo:
+
 DESCRIÇÃO
+
 Batalha Naval é um jogo de tabuleiro que envolve dois jogadores. Cada jogador
 distribui em um tabuleiro 10 x 10 um conjunto de 5 navios de maneira que um navio
 ocupa 5 células, um ocupa 4 células, dois ocupam 3 células e um navio ocupa 2
@@ -11,7 +13,9 @@ jogar passa a ser do outro jogador. Caso a célula esteja ocupada, o mesmo jogad
 continua selecionando outras células até encontrar uma que não esteja ocupada ou
 até selecionar todas as células ocupadas. Ganha o jogo quem encontrar primeiro
 todas as posições ocupadas (17 no total) no tabuleiro do oponente.
+
 PROBLEMA
+
 Conhecendo as regras do jogo e os princípios de construção de algoritmos vistos em
 sala de aula, escreva um algoritmo em Visualg que simule o jogo de Batalha Naval.
 Seu algoritmo deve cumprir com os seguintes requisitos mínimos:
